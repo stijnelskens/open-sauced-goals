@@ -1,25 +1,25 @@
 [
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 944,
-    "open_issues_count": 0,
+    "stargazers_count": 953,
+    "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 23615,
-    "open_issues_count": 21,
-    "forks_count": 708
+    "stargazers_count": 23720,
+    "open_issues_count": 23,
+    "forks_count": 711
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 10835,
-    "open_issues_count": 27,
+    "stargazers_count": 10882,
+    "open_issues_count": 25,
     "forks_count": 322
   },
   {
     "full_name": "statikbe/laravel-surveyhero",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15138,
-    "open_issues_count": 74,
-    "forks_count": 479
+    "stargazers_count": 15268,
+    "open_issues_count": 77,
+    "forks_count": 481
   },
   {
     "full_name": "statikbe/laravel-cookie-consent",
     "stargazers_count": 54,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "wesbos/awesome-uses",
     "stargazers_count": 4089,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 1146
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1348,
+    "stargazers_count": 1349,
     "open_issues_count": 27,
     "forks_count": 211
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 59649,
-    "open_issues_count": 378,
-    "forks_count": 7986
+    "stargazers_count": 59780,
+    "open_issues_count": 377,
+    "forks_count": 8002
   },
   {
     "full_name": "studioespresso/craft3-easyaddressfield",
@@ -67,20 +67,20 @@
   },
   {
     "full_name": "hzeller/rpi-rgb-led-matrix",
-    "stargazers_count": 2887,
+    "stargazers_count": 2889,
     "open_issues_count": 452,
     "forks_count": 981
   },
   {
     "full_name": "merakiui/merakiui",
-    "stargazers_count": 1553,
+    "stargazers_count": 1554,
     "open_issues_count": 0,
     "forks_count": 124
   },
   {
     "full_name": "parcel-bundler/parcel",
-    "stargazers_count": 41580,
-    "open_issues_count": 778,
+    "stargazers_count": 41605,
+    "open_issues_count": 779,
     "forks_count": 2210
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Lierrmm/Node-CallOfDuty",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "peter-murray/node-hue-api",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 15294,
+    "stargazers_count": 15298,
     "open_issues_count": 14,
-    "forks_count": 1131
+    "forks_count": 1132
   },
   {
     "full_name": "fdgt-apis/api",
@@ -121,26 +121,26 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 62297,
-    "open_issues_count": 7,
-    "forks_count": 3166
+    "stargazers_count": 62383,
+    "open_issues_count": 6,
+    "forks_count": 3173
   },
   {
     "full_name": "HubSpot/youmightnotneedjquery",
-    "stargazers_count": 13829,
-    "open_issues_count": 6,
+    "stargazers_count": 13833,
+    "open_issues_count": 7,
     "forks_count": 529
   },
   {
     "full_name": "tmijs/tmi.js",
-    "stargazers_count": 1367,
+    "stargazers_count": 1368,
     "open_issues_count": 28,
     "forks_count": 208
   },
   {
     "full_name": "univrsal/input-overlay",
-    "stargazers_count": 1380,
-    "open_issues_count": 39,
+    "stargazers_count": 1384,
+    "open_issues_count": 40,
     "forks_count": 151
   },
   {
@@ -159,7 +159,7 @@
     "full_name": "aelvan/mailchimp-subscribe-craft",
     "stargazers_count": 119,
     "open_issues_count": 7,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "craftcms/guest-entries",
