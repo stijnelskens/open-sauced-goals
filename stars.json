@@ -1,27 +1,27 @@
 [
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 10679,
-    "open_issues_count": 23,
-    "forks_count": 435
+    "stargazers_count": 10952,
+    "open_issues_count": 26,
+    "forks_count": 448
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 974,
+    "stargazers_count": 983,
     "open_issues_count": 2,
     "forks_count": 27
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 23926,
+    "stargazers_count": 24035,
     "open_issues_count": 24,
-    "forks_count": 717
+    "forks_count": 719
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 10978,
-    "open_issues_count": 25,
-    "forks_count": 326
+    "stargazers_count": 11036,
+    "open_issues_count": 28,
+    "forks_count": 327
   },
   {
     "full_name": "statikbe/laravel-surveyhero",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "statikbe/craft",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15654,
-    "open_issues_count": 78,
-    "forks_count": 499
+    "stargazers_count": 16018,
+    "open_issues_count": 53,
+    "forks_count": 508
   },
   {
     "full_name": "statikbe/laravel-cookie-consent",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4091,
+    "stargazers_count": 4094,
     "open_issues_count": 14,
-    "forks_count": 1150
+    "forks_count": 1151
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1353,
+    "stargazers_count": 1354,
     "open_issues_count": 27,
-    "forks_count": 214
+    "forks_count": 216
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 60167,
-    "open_issues_count": 375,
-    "forks_count": 8022
+    "stargazers_count": 60246,
+    "open_issues_count": 372,
+    "forks_count": 8020
   },
   {
     "full_name": "studioespresso/craft3-easyaddressfield",
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "hzeller/rpi-rgb-led-matrix",
-    "stargazers_count": 2894,
+    "stargazers_count": 2898,
     "open_issues_count": 453,
     "forks_count": 985
   },
   {
     "full_name": "merakiui/merakiui",
-    "stargazers_count": 1562,
+    "stargazers_count": 1568,
     "open_issues_count": 0,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "parcel-bundler/parcel",
-    "stargazers_count": 41639,
-    "open_issues_count": 781,
-    "forks_count": 2216
+    "stargazers_count": 41657,
+    "open_issues_count": 766,
+    "forks_count": 2219
   },
   {
     "full_name": "druv5319/Sneaks-API",
-    "stargazers_count": 311,
+    "stargazers_count": 315,
     "open_issues_count": 18,
     "forks_count": 88
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 15338,
+    "stargazers_count": 15350,
     "open_issues_count": 18,
-    "forks_count": 1135
+    "forks_count": 1136
   },
   {
     "full_name": "fdgt-apis/api",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 62585,
+    "stargazers_count": 62666,
     "open_issues_count": 13,
-    "forks_count": 3185
+    "forks_count": 3192
   },
   {
     "full_name": "HubSpot/youmightnotneedjquery",
-    "stargazers_count": 13835,
+    "stargazers_count": 13837,
     "open_issues_count": 7,
     "forks_count": 530
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "univrsal/input-overlay",
-    "stargazers_count": 1391,
-    "open_issues_count": 40,
+    "stargazers_count": 1398,
+    "open_issues_count": 41,
     "forks_count": 150
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "Tastenkunst/brfv5-browser",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 16,
     "forks_count": 48
   },
