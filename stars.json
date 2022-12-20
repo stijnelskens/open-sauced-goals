@@ -7,27 +7,27 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 11993,
-    "open_issues_count": 28,
-    "forks_count": 484
+    "stargazers_count": 12104,
+    "open_issues_count": 27,
+    "forks_count": 486
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 1034,
+    "stargazers_count": 1040,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 33
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 24618,
-    "open_issues_count": 24,
-    "forks_count": 739
+    "stargazers_count": 24710,
+    "open_issues_count": 25,
+    "forks_count": 740
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11237,
-    "open_issues_count": 18,
-    "forks_count": 334
+    "stargazers_count": 11272,
+    "open_issues_count": 19,
+    "forks_count": 338
   },
   {
     "full_name": "statikbe/laravel-surveyhero",
@@ -37,33 +37,33 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 17169,
-    "open_issues_count": 61,
-    "forks_count": 540
+    "stargazers_count": 17347,
+    "open_issues_count": 63,
+    "forks_count": 553
   },
   {
     "full_name": "statikbe/laravel-cookie-consent",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4100,
+    "stargazers_count": 4105,
     "open_issues_count": 13,
     "forks_count": 1153
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1376,
+    "stargazers_count": 1379,
     "open_issues_count": 31,
-    "forks_count": 221
+    "forks_count": 223
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 60578,
-    "open_issues_count": 374,
-    "forks_count": 8052
+    "stargazers_count": 60721,
+    "open_issues_count": 373,
+    "forks_count": 8062
   },
   {
     "full_name": "studioespresso/craft3-easyaddressfield",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "hzeller/rpi-rgb-led-matrix",
-    "stargazers_count": 2912,
-    "open_issues_count": 455,
-    "forks_count": 991
+    "stargazers_count": 2921,
+    "open_issues_count": 457,
+    "forks_count": 990
   },
   {
     "full_name": "merakiui/merakiui",
-    "stargazers_count": 1594,
-    "open_issues_count": 1,
-    "forks_count": 128
+    "stargazers_count": 1600,
+    "open_issues_count": 0,
+    "forks_count": 129
   },
   {
     "full_name": "parcel-bundler/parcel",
-    "stargazers_count": 41727,
-    "open_issues_count": 772,
-    "forks_count": 2224
+    "stargazers_count": 41741,
+    "open_issues_count": 768,
+    "forks_count": 2225
   },
   {
     "full_name": "druv5319/Sneaks-API",
@@ -98,7 +98,7 @@
   {
     "full_name": "Lierrmm/Node-CallOfDuty",
     "stargazers_count": 188,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 73
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 15402,
+    "stargazers_count": 15409,
     "open_issues_count": 18,
-    "forks_count": 1139
+    "forks_count": 1140
   },
   {
     "full_name": "fdgt-apis/api",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 63134,
-    "open_issues_count": 11,
-    "forks_count": 3219
+    "stargazers_count": 63218,
+    "open_issues_count": 8,
+    "forks_count": 3225
   },
   {
     "full_name": "HubSpot/youmightnotneedjquery",
-    "stargazers_count": 13848,
+    "stargazers_count": 13849,
     "open_issues_count": 7,
     "forks_count": 531
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "univrsal/input-overlay",
-    "stargazers_count": 1421,
+    "stargazers_count": 1423,
     "open_issues_count": 21,
-    "forks_count": 151
+    "forks_count": 150
   },
   {
     "full_name": "anthonygore/html-critical-webpack-plugin",
@@ -165,7 +165,7 @@
     "full_name": "aelvan/mailchimp-subscribe-craft",
     "stargazers_count": 118,
     "open_issues_count": 6,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "craftcms/guest-entries",
