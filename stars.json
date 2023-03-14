@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "statikbe/laravel-filament-flexible-content-blocks",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "withastro/astro",
-    "stargazers_count": 28128,
-    "open_issues_count": 118,
-    "forks_count": 1355
+    "stargazers_count": 28285,
+    "open_issues_count": 129,
+    "forks_count": 1363
   },
   {
     "full_name": "freekmurze/laravel-help-space",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "statikbe/laravel-filament-chained-translation-manager",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -31,27 +37,27 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 15246,
-    "open_issues_count": 28,
-    "forks_count": 664
+    "stargazers_count": 15360,
+    "open_issues_count": 31,
+    "forks_count": 670
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 1440,
+    "stargazers_count": 1445,
     "open_issues_count": 2,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 28211,
-    "open_issues_count": 14,
-    "forks_count": 878
+    "stargazers_count": 28330,
+    "open_issues_count": 15,
+    "forks_count": 882
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 12485,
+    "stargazers_count": 12538,
     "open_issues_count": 17,
-    "forks_count": 381
+    "forks_count": 383
   },
   {
     "full_name": "statikbe/laravel-surveyhero",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 22618,
-    "open_issues_count": 90,
-    "forks_count": 776
+    "stargazers_count": 22798,
+    "open_issues_count": 86,
+    "forks_count": 782
   },
   {
     "full_name": "statikbe/laravel-cookie-consent",
@@ -73,21 +79,21 @@
   },
   {
     "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4162,
-    "open_issues_count": 20,
-    "forks_count": 1185
+    "stargazers_count": 4163,
+    "open_issues_count": 23,
+    "forks_count": 1186
   },
   {
     "full_name": "jh3y/whirl",
     "stargazers_count": 1418,
     "open_issues_count": 32,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62933,
+    "stargazers_count": 62996,
     "open_issues_count": 367,
-    "forks_count": 8254
+    "forks_count": 8263
   },
   {
     "full_name": "studioespresso/craft3-easyaddressfield",
@@ -97,31 +103,31 @@
   },
   {
     "full_name": "hzeller/rpi-rgb-led-matrix",
-    "stargazers_count": 3018,
-    "open_issues_count": 478,
+    "stargazers_count": 3023,
+    "open_issues_count": 477,
     "forks_count": 1009
   },
   {
     "full_name": "merakiui/merakiui",
-    "stargazers_count": 1735,
+    "stargazers_count": 1747,
     "open_issues_count": 0,
     "forks_count": 132
   },
   {
     "full_name": "parcel-bundler/parcel",
-    "stargazers_count": 42096,
-    "open_issues_count": 768,
-    "forks_count": 2245
+    "stargazers_count": 42111,
+    "open_issues_count": 772,
+    "forks_count": 2243
   },
   {
     "full_name": "druv5319/Sneaks-API",
-    "stargazers_count": 343,
+    "stargazers_count": 344,
     "open_issues_count": 21,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "Lierrmm/Node-CallOfDuty",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 0,
     "forks_count": 73
   },
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 15619,
+    "stargazers_count": 15626,
     "open_issues_count": 18,
-    "forks_count": 1148
+    "forks_count": 1153
   },
   {
     "full_name": "fdgt-apis/api",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "instafluff/ComfyJS",
-    "stargazers_count": 327,
+    "stargazers_count": 329,
     "open_issues_count": 15,
     "forks_count": 39
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 65825,
-    "open_issues_count": 8,
-    "forks_count": 3354
+    "stargazers_count": 65934,
+    "open_issues_count": 10,
+    "forks_count": 3356
   },
   {
     "full_name": "HubSpot/youmightnotneedjquery",
-    "stargazers_count": 13910,
+    "stargazers_count": 13908,
     "open_issues_count": 6,
     "forks_count": 536
   },
   {
     "full_name": "tmijs/tmi.js",
-    "stargazers_count": 1425,
+    "stargazers_count": 1426,
     "open_issues_count": 30,
     "forks_count": 213
   },
   {
     "full_name": "univrsal/input-overlay",
-    "stargazers_count": 1542,
+    "stargazers_count": 1547,
     "open_issues_count": 13,
-    "forks_count": 162
-  },
-  {
-    "full_name": "anthonygore/html-critical-webpack-plugin",
-    "stargazers_count": 427,
-    "open_issues_count": 18,
-    "forks_count": 43
+    "forks_count": 166
   }
 ]
